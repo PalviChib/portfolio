@@ -1,0 +1,35 @@
+h1{
+    text-align: center;
+    font-family: fantasy;
+    background: rgb(78, 230, 230);
+}
+h2{
+  
+    font-family: fantasy;
+    background: rgb(78, 230, 230);
+  
+}
+.table {
+    background-color: rgb(78, 230, 230);
+   
+    width: 270px;
+    padding: 20px;
+    float: left;
+    border: 10px black solid;
+   
+}
+.content { 
+    font-family: arial;
+    background: lightcoral ;
+    display: table-row-group;
+    
+}
+.contact {
+    display: table-column-group;
+    margin: 300px 100px 20px 100px;
+}
+img{
+    width: 240 ;
+    height: 240;
+    
+}

@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.background {
+    background-image: url("/images/IMG_20190203_150336.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+    width: 100%;
+    height: 100%;
+
+}
+.home {
+    background-color: lightsalmon;
+    font-family: cursive;
+    text-align: right;
+    width: 400px;
+    float: right;
+    
+}
+
+.explore{
+    margin: 10px;
+    border:2px black solid;
+    width: 60px;
+    float: right;
+    padding: 5px;
+
+}
+
